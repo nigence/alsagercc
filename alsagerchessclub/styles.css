@@ -1,0 +1,45 @@
+
+img {
+  height : 100px;
+}
+
+div.header-img-wrapper {
+  margin : auto;
+}
+
+div.header-title-lhs {
+  float : left;
+  clear : left;
+}
+
+div.header-title-centre-right {
+  float : right;
+  clear : right;
+}
+
+div.header-title-centre {
+  clear : left;
+  float : left;
+  text-align : left;
+  vertical-align : middle;
+}
+
+div.header-title-centre>p {
+  font: 18px "Arial", sans-serif;
+  color : green;
+  vertical-align : middle;
+}
+
+
+div.header-title-rhs {
+  float : right;
+  clear : right;
+}
+
+div.header-img-row {
+  clear : both;
+}
+
+div.header-img-wrapper {
+  width : 616px;
+}

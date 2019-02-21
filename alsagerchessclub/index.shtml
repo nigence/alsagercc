@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="styles.css">
     <title>
       Alsgager Chess Club
     </title>
   </head>
 
   <body>
+    <!--#include file="header.html" -->
+
     Under construction. This is a sandbox for the new beta website.
   </body>
 </html>
