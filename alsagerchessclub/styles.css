@@ -1,21 +1,31 @@
+body {
+  background-color : LightGrey;
+}
 
 img {
-  height : 65px;
+  height : 70px;
 }
 
 div.header-img-wrapper {
   margin : auto;
-  width : 1050px;
+  width : 1126px;
 }
 
 div.header-img-row {
+  /*
+  border-color : green;
+  border-style : solid;
+  border-width : 1px;
+  */
   clear : both;
 }
 
 div.header-title-row {
+  /*
   border-color : red;
   border-style : solid;
   border-width : 1px;
+  */
   display : flex;
   width : 100%;
 }
@@ -29,7 +39,6 @@ div.header-title-lhs {
 
 
 div.header-title-centre {
-  background-color : orange;
   display : flex;
   align-items : center;
   justify-content : center;
@@ -39,17 +48,15 @@ div.header-title-centre {
 }
 
 div.header-title-centre-inner {
-  background-color : red;
   display : flex;
   align-items : center;
   justify-content : center;
 }
 
 div.header-title-centre-inner-element {
-  background-color : green;
-  color : black;
-  font: 55px "Arial", sans-serif;
-  line-height : 70%;
+  color : DarkSlateGrey;
+  font: 65px "Arial", sans-serif;
+  line-height : 80%;
   margin : auto;
   text-align : center;
 }
