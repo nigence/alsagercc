@@ -30,13 +30,23 @@ div.header-title-lhs {
 
 div.header-title-centre {
   background-color : orange;
+  display : flex;
+  align-items : center;
+  justify-content : center;
   flex-grow : 1;
   flex-shrink : 0;
   order : 2;
 }
 
-div.header-title-centre>p {
+div.header-title-centre-inner {
   background-color : red;
+  display : flex;
+  align-items : center;
+  justify-content : center;
+}
+
+div.header-title-centre-inner-element {
+  background-color : green;
   color : black;
   font: 55px "Arial", sans-serif;
   line-height : 70%;
