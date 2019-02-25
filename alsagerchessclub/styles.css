@@ -7,7 +7,7 @@ img {
   height : 70px;
 }
 
-div.header-img-wrapper {
+div.overall-wrapper {
   margin : auto;
   width : 1126px;
 }
@@ -68,4 +68,29 @@ div.header-title-rhs {
   order : 3;
 }
 
+
+div.nav-and-panel-container {
+  display : flex;
+  flex-direction : row;
+}
+
+div.nav-container {
+  background-color : green;
+  flex-grow : 0;
+  height : 200px;
+  width : 200px;
+}
+
+div.nav-container>nav {
+  display : flex;
+  flex-direction : column;
+}
+
+
+div.panel-container {
+  background-color : red;
+  flex-grow : 1;
+  height : 200px;
+  width : 500px;
+}
 
