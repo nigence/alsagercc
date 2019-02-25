@@ -3,6 +3,7 @@ body {
 }
 
 img {
+  border-radius : 10px;
   height : 70px;
 }
 
