@@ -75,9 +75,8 @@ div.nav-and-panel-container {
 }
 
 div.nav-container {
-  background-color : green;
+  /*background-color : green;*/
   flex-grow : 0;
-  height : 200px;
   width : 200px;
 }
 
@@ -87,8 +86,14 @@ div.nav-container>nav {
 }
 
 
+div#findme>a {
+  font: 12px "Arial", sans-serif;
+  color: red;
+}
+
+
 div.panel-container {
-  background-color : red;
+  /*background-color : red;*/
   flex-grow : 1;
   height : 200px;
   width : 500px;

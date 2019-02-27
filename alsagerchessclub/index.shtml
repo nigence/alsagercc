@@ -14,11 +14,41 @@
       <div class="nav-and-panel-container">
         <div class="nav-container">
           <nav>
-            <div>
+            <div id="findme">
               <a href="/alsagerchessclub/index.shtml">home</a>
             </div>
             <div>
-              <a href="/alsagerchessclub/blah.shtml">blah</a>
+              <a href="/alsagerchessclub/blah.shtml">find us</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">contact us</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">fixtures</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">lending library</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">history</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">honours</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">classic games</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">our classic games</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">gallery</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">subscriptions</a>
+            </div>
+            <div>
+              <a href="/alsagerchessclub/blah.shtml">links</a>
             </div>
           </nav>
         </div>
