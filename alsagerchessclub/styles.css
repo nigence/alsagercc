@@ -98,17 +98,47 @@ div.nav-container>nav>div>a:link,
 div.nav-container>nav>div>a:visited,
 div.nav-container>nav>div>a:active
 {
-  font: 14px "Arial", sans-serif;
   color:DarkSlateGrey; 
-  text-decoration:none
+  font: 14px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
 }
 
 
 div.nav-container>nav>div>a:hover
 {
-  font: 14px "Arial", sans-serif;
   color:red; 
-  text-decoration:none
+  font: 14px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+
+p
+{
+  color:DarkSlateGrey; 
+  font: 20px "Arial", sans-serif;
+  font-weight: normal;
+}
+
+
+p>a:link, 
+p>a:visited,
+p>a:active
+{
+  color:DarkSlateGrey; 
+  font: 20px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+
+p>a:hover
+{
+  color:red; 
+  font: 20px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
 }
 
 
