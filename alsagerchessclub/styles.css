@@ -74,11 +74,13 @@ div.nav-and-panel-container {
   flex-direction : row;
 }
 
+
 div.nav-container {
   /*background-color : green;*/
   flex-grow : 0;
   width : 200px;
 }
+
 
 div.nav-container>nav {
   display : flex;
@@ -86,9 +88,27 @@ div.nav-container>nav {
 }
 
 
-div#findme>a {
-  font: 12px "Arial", sans-serif;
-  color: red;
+div.nav-container>nav>div
+{
+  padding : 4px 4px 4px 4px;
+}
+
+
+div.nav-container>nav>div>a:link, 
+div.nav-container>nav>div>a:visited,
+div.nav-container>nav>div>a:active
+{
+  font: 14px "Arial", sans-serif;
+  color:DarkSlateGrey; 
+  text-decoration:none
+}
+
+
+div.nav-container>nav>div>a:hover
+{
+  font: 14px "Arial", sans-serif;
+  color:red; 
+  text-decoration:none
 }
 
 
