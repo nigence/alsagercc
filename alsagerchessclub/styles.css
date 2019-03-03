@@ -165,3 +165,21 @@ div#find-us-instructions>p {
   font: 12px "Arial", sans-serif;
 }
 
+
+div#find-us-instructions mark, 
+div#find-us-instructions a:link, 
+div#find-us-instructions a:visited,
+div#find-us-instructions a:active
+{
+  background : inherit;
+  color : DarkSlateGrey;
+  font: bold 12px "Arial", sans-serif;
+}
+
+
+div#find-us-instructions a:hover
+{
+  background : inherit;
+  color : red;
+  font: bold 12px "Arial", sans-serif;
+}
