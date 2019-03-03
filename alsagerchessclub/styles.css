@@ -17,8 +17,10 @@ img#findusmap {
 
 
 div.overall-wrapper {
+  height : 1000px;
   margin : auto;
   width : 1126px;
+
 }
 
 div.header-img-row {
