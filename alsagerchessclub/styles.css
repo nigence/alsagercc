@@ -160,26 +160,55 @@ div.panel-container {
 }
 
 
-div#find-us-instructions>p {
-  color : DarkSlateGrey;
-  font: 12px "Arial", sans-serif;
+div#find-us-instructions
+{
+  display : flex;
+  flex-direction : row;
 }
 
 
-div#find-us-instructions mark, 
-div#find-us-instructions a:link, 
-div#find-us-instructions a:visited,
-div#find-us-instructions a:active
+div#find-us-map-column
+{
+  flex-grow: 0;
+  order: 1;
+}
+
+
+div#find-us-text-column
+{
+  flex-grow: 1;
+  order:2;
+}
+
+
+div#find-us-text-column p
+{
+  color : DarkSlateGrey;
+  font: 14px "Arial", sans-serif;
+}
+
+
+div#find-us-text-column mark, 
+div#find-us-text-column a:link, 
+div#find-us-text-column a:visited,
+div#find-us-text-column a:active
 {
   background : inherit;
   color : DarkSlateGrey;
-  font: bold 12px "Arial", sans-serif;
+  font: bold 14px "Arial", sans-serif;
 }
 
 
-div#find-us-instructions a:hover
+div#find-us-text-column a:hover
 {
   background : inherit;
   color : red;
-  font: bold 12px "Arial", sans-serif;
+  font: bold 14px "Arial", sans-serif;
+}
+
+
+div#contact-us-instructions>p
+{
+  color : DarkSlateGrey;
+  font: 16px "Arial", sans-serif;
 }

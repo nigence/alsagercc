@@ -14,19 +14,23 @@
         </div>
         <div class="panel-container">
           <div id="find-us-instructions">
-            <img id="findusmap" src="photos/Inkedalsager-map_LI.jpg" >
-            <p>
+            <div id="find-us-map-column">
+              <img id="findusmap" src="photos/Inkedalsager-map_LI.jpg" >
+            </div>
+            <div id="find-us-text-column">
+              <p>
 <mark>Train:</mark> Alsager station is just off the bottom of the map on Sandbach Road South. Leave the station turning right (Northbound), walk for 500 metres (6 minutes), and then follow the walking from bus instructions below. Alsager has services from main line stations at <a href="https://www.thetrainline.com/live/arrivals/alsager" target="_about">Crewe</a> and <a href="https://www.thetrainline.com/live/arrivals/alsager" target="_about">Stoke-on-Trent</a>.
-            </p>
-            <p>
+              </p>
+              <p>
 <mark>Bus:</mark> service number 3 between Crewe and Hanley runs as frequently as every 10 minutes mostly. <a href="https://www.firstgroup.com/potteries/plan-journey/timetables/?day=1&source_id=2&service=3%2F3A&routeid=22749581&operator=21&source=sp" target="_blank">Consult the timetable</a>. From the Bank Corner bus stop, walk away from the traffic lights (Eastbound) for 200 metres (2 minutes) then turn left into Shady Grove; walk all way to end of Shady Grove (300 metres, 3 minutes); at the T-junction, turn left and walk 240 metres (2.5 minutes) along Moorhouse Avenue; the pavilion is on your left. The diagram shows the path.
-            </p>
-            <p>
+              </p>
+              <p>
 <mark>Car:</mark> for your GPS, there's postcode=<a href="https://www.google.co.uk/maps/place/Alsager+Cricket+Club/@53.0985939,-2.3039614,17z/data=!4m13!1m7!3m6!1s0x487a5c6e1cd9b975:0xb17aad3fb31648ea!2sFairview+Ave,+Alsager,+Stoke-on-Trent+ST7+2NW!3b1!8m2!3d53.0985726!4d-2.3043409!3m4!1s0x487a5c71f7464127:0x292632641ee5c616!8m2!3d53.0996482!4d-2.3044889?hl=en" target="_blank">ST7 2NW</a>, lat/long=53.099545,-2.3046586 degrees, BNG=SJ796558. For your MAP, you want the B5077; it's the main drag through Alsager; seeing traffic lights means you're in the centre at Bank Corner; from here, drive as per the walking instructions.
-            </p>
-            <p>
+              </p>
+              <p>
 <mark>Lift share:</mark> <a href="/alsagerchessclub/contact-us.shtml">contact us</a>. Often, we can arrange to give you a lift.
-            </p>
+              </p>
+            </div>
           </div>
         </div>
       </div>
