@@ -15,7 +15,9 @@
         <div class="panel-container">
           <div id="find-us-instructions">
             <div id="find-us-map-column">
-              <img id="findusmap" src="photos/Inkedalsager-map_LI.jpg" >
+              <a href="https://www.google.co.uk/maps/place/Alsager+Cricket+Club/@53.0985939,-2.3039614,17z/data=!4m13!1m7!3m6!1s0x487a5c6e1cd9b975:0xb17aad3fb31648ea!2sFairview+Ave,+Alsager,+Stoke-on-Trent+ST7+2NW!3b1!8m2!3d53.0985726!4d-2.3043409!3m4!1s0x487a5c71f7464127:0x292632641ee5c616!8m2!3d53.0996482!4d-2.3044889?hl=en" target="_about">
+                <img id="findusmap" src="photos/Inkedalsager-map_LI.jpg" >
+              </a>
             </div>
             <div id="find-us-text-column">
               <p>
