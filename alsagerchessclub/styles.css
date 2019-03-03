@@ -2,10 +2,19 @@ body {
   background-color : LightGrey;
 }
 
+
 img {
   border-radius : 10px;
   height : 70px;
 }
+
+
+img#findusmap {
+  border-radius : 10px;
+  float : left;
+  height : 300px;
+}
+
 
 div.overall-wrapper {
   margin : auto;
@@ -76,9 +85,8 @@ div.nav-and-panel-container {
 
 
 div.nav-container {
-  /*background-color : green;*/
   flex-grow : 0;
-  width : 200px;
+  /*width : 200px;*/
 }
 
 
@@ -144,8 +152,16 @@ p>a:hover
 
 div.panel-container {
   /*background-color : red;*/
+  color:DarkSlateGrey; 
   flex-grow : 1;
+  font: 12px "Arial", sans-serif;
   height : 200px;
   width : 500px;
+}
+
+
+div#find-us-instructions>p {
+  color : DarkSlateGrey;
+  font: 12px "Arial", sans-serif;
 }
 

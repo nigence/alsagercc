@@ -13,7 +13,21 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
-          blah blah blah
+          <div id="find-us-instructions">
+            <img id="findusmap" src="photos/Inkedalsager-map_LI.jpg" >
+            <p>
+Train: Alsager station is just off the bottom of the map on Sandbach Road South. Leave the station turning right (Northbound), walk for 500 metres (6 minutes), and then follow the walking from bus instructions below. Alsager has services from main line stations at Crewe and Stoke-on-Trent.
+            </p>
+            <p>
+Bus: service number 3 between Crewe and Hanley runs as frequently as every 10 minutes mostly. Consult the timetable. From the Bank Corner bus stop, walk away from the traffic lights (Eastbound) for 200 metres (2 minutes) then turn left into Shady Grove; walk all way to end of Shady Grove (300 metres, 3 minutes); at the T-junction, turn left and walk 240 metres (2.5 minutes) along Moorhouse Avenue; the pavilion is on your left. The diagram shows the path.
+            </p>
+            <p>
+Car: for your GPS, there's postcode=ST7 2NW, lat/long=53.099545,-2.3046586 degrees, BNG=SJ796558. For your MAP, you want the B5077; it's the main drag through Alsager; seeing traffic lights means your in the centre at Bank Corner; from here, drive as per the walking instructions.
+            </p>
+            <p>
+Lift share: contact us. Often, we can arrange to give you a lift.
+            </p>
+          </div>
         </div>
       </div>
     </div>
