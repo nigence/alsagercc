@@ -120,7 +120,8 @@ div.panel-container {
 }
 
 
-div.panel-container p
+div.panel-container p,
+div.panel-container td
 {
   color:DarkSlateGrey; 
   font: 20px "Arial", sans-serif;
@@ -128,7 +129,8 @@ div.panel-container p
 }
 
 
-div.panel-container h2 
+div.panel-container h2,
+div.panel-container th
 {
   color:DarkSlateGrey; 
   font: bold 24px "Arial", sans-serif;
