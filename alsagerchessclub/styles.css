@@ -119,11 +119,19 @@ div.panel-container {
   flex-grow : 1;
 }
 
+
 div.panel-container p
 {
   color:DarkSlateGrey; 
   font: 20px "Arial", sans-serif;
   font-weight: normal;
+}
+
+
+div.panel-container h2 
+{
+  color:DarkSlateGrey; 
+  font: bold 24px "Arial", sans-serif;
 }
 
 
