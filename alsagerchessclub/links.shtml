@@ -13,7 +13,99 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
-          blah blah blah
+
+          <table>
+            <tr>
+              <td>
+        photos/bcm-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/4ncl-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/chess-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/chessbase-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/chesscafe-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/chessology-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/chessvideos-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/ecf-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/fide-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/london-chess-centre-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+            <tr>
+              <td>
+        photos/twic-logo.png
+              </td> 
+              <td> 
+                blah
+              </td> 
+            </tr>
+          </table>
+
+
         </div>
       </div>
     </div>
