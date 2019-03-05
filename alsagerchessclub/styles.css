@@ -137,9 +137,9 @@ div.panel-container th
 }
 
 
-div.panel-container p>a:link, 
-div.panel-container p>a:visited,
-div.panel-container p>a:active
+div.panel-container a:link, 
+div.panel-container a:visited,
+div.panel-container a:active
 {
   color:DarkSlateGrey; 
   font: 20px "Arial", sans-serif;
@@ -148,7 +148,7 @@ div.panel-container p>a:active
 }
 
 
-div.panel-container p>a:hover
+div.panel-container a:hover
 {
   color:red; 
   font: 20px "Arial", sans-serif;
