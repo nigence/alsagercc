@@ -17,10 +17,12 @@
           <table>
             <tr>
               <td>
-        photos/bcm-logo.png
+                <a href="https://www.britishchessmagazine.co.uk/" target="_blank">
+                  <img src="photos/bcm-logo.png">
+                </a>
               </td> 
               <td> 
-                blah
+                <a href="https://www.britishchessmagazine.co.uk/" target="_blank">British Chess Magazine</a> 
               </td> 
             </tr>
             <tr>
