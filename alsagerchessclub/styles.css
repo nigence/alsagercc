@@ -9,7 +9,9 @@ img {
 }
 
 
-img#findusmap {
+img#findusmap,
+img#subscription-image
+{
   border-radius : 10px;
   float : left;
   height : 300px;

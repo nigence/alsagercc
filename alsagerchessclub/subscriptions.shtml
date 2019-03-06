@@ -13,7 +13,22 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
-          blah blah blah
+          <h2>
+            Subscriptions
+          </h2>
+
+          <img id="subscription-image" src="photos/Barter-Chickens_for_Subscription.jpg">
+
+          <p>
+            Annual subscription is a mere £10.00 
+          </p>
+          <p>
+            For league gamers, please also acquire
+            <a href="https://www.englishchess.org.uk/" target="_blank">
+              English Chess Federation
+            </a> 
+             membership at least at "Bronze" level.
+          </p>
         </div>
       </div>
     </div>
