@@ -15,8 +15,33 @@
         <div class="panel-container">
           <h2>classic games selection</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d52czGryfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+          <div class="embedded-youtube-grid">
+
+            <a href="https://www.youtube.com/watch?v=0d52czGryfA&feature=youtu.be" 
+             target="_blank">
+            J Capablanca - S Tartakover New York, 1924
+            </a> 
+
+            <iframe width="280" height="157" src="https://www.youtube.com/embed/0d52czGryfA" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; 
+                           picture-in-picture" allowfullscreen>
+            </iframe>
+
+
+            <a href="https://www.youtube.com/" 
+               target="_blank">
+               R Fischer - D Byrne, New York City, 1956
+            </a> 
+
+            <iframe width="280" height="157" 
+                    src="http://www.youtube.com/embed/M624T3PTggU" 
+                    frameborder="0" allowfullscreen>
+            </iframe>
+
+          </div>
+<!--
           <a href="https://www.youtube.com/watch?v=0d52czGryfA&feature=youtu.be" 
              target="_blank">
             J Capablanca - S Tartakover New York, 1924
@@ -126,6 +151,8 @@
              target="_blank">
              R Fischer - T Petrosian, Belgrade,  1970
           </a> 
+-->
+
         </div>
       </div>
     </div>

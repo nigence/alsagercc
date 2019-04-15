@@ -206,3 +206,11 @@ div#find-us-text-column a:hover
   font: bold 14px "Arial", sans-serif;
 }
 
+
+div.embedded-youtube-grid
+{
+  color : red;
+  display : grid;
+  grid-template-columns : auto auto;
+}
+
