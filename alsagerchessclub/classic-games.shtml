@@ -23,7 +23,9 @@
             J Capablanca - S Tartakover New York, 1924
             </a> 
 
-            <iframe width="280" height="157" src="https://www.youtube.com/embed/0d52czGryfA" 
+            <iframe width="280" 
+                    height="157" 
+                    src="https://www.youtube.com/embed/0d52czGryfA" 
                     frameborder="0" 
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; 
                            picture-in-picture" allowfullscreen>
@@ -35,23 +37,31 @@
                R Fischer - D Byrne, New York City, 1956
             </a> 
 
-            <iframe width="280" height="157" 
+            <iframe width="280" 
+                    height="157" 
                     src="http://www.youtube.com/embed/M624T3PTggU" 
                     frameborder="0" allowfullscreen>
             </iframe>
 
+
+            <a href="https://www.youtube.com/watch?time_continue=68&v=n5VbOycHgT0" 
+             target="_blank">
+              P Morphy - H Baucher Paris, 1858
+            </a> 
+
+            <iframe width="280" 
+                    height="157" 
+                    src="https://www.youtube.com/embed/n5VbOycHgT0" 
+                    frameborder="0" 
+                    allow="accelerometer; 
+                           autoplay; encrypted-media; gyroscope; 
+                           picture-in-picture" 
+                    allowfullscreen>
+            </iframe> 
+
           </div>
+
 <!--
-          <a href="https://www.youtube.com/watch?v=0d52czGryfA&feature=youtu.be" 
-             target="_blank">
-            J Capablanca - S Tartakover New York, 1924
-          </a> 
-          <br>
-          <a href="https://www.youtube.com/watch?time_continue=68&v=n5VbOycHgT0" 
-             target="_blank">
-            P Morphy - H Baucher Paris, 1858
-          </a> 
-          <br>
           <a href="https://www.youtube.com/" 
              target="_blank">
              A Alekhine - A Nimzowitsch, Bled,  1931
