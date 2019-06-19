@@ -2,6 +2,21 @@
 <html>
   <head>
     <!--#include file="head.html" -->
+
+
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnyui.js">  
+</script>   
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnviewer.js">  
+</script>  
+<link  
+ type="text/css"   
+ rel="stylesheet"   
+ href="http://chesstempo.com/css/board-min.css">  
+</link>  
+
+
   </head>
 
   <body>
@@ -13,6 +28,28 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
+
+
+
+<script>  
+new PgnViewer(  
+  { boardName: "demo",  
+    pgnFile: 'kasparov.pgn',  
+    pieceSet: 'leipzig',   
+    pieceSize: 20  
+  }  
+);  
+</script> 
+
+
+<div id="demo-container"></div>  
+<div id="demo-moves"></div>  
+
+
+
+
+
+
           blah blah blah
         </div>
       </div>
