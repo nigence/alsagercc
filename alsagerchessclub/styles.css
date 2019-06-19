@@ -214,3 +214,8 @@ div.embedded-youtube-grid
   grid-template-columns : auto auto;
 }
 
+iframe
+{
+  margin : 5px;
+}
+
