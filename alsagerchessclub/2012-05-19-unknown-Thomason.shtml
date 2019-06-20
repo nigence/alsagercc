@@ -29,28 +29,31 @@
         </div>
         <div class="panel-container">
 
+          <h2>Unknown(156) vs Alan Thomason(139),</h2>
+          <h2>Rhyl Congress Round 2,</h2>
+          <h2>19th May 2012, ECO: E87</h2>
+          <p>Special thanks are due to chesstempo.com for their excellent PGN viewer.</p>
 
+          <script>  
+            new PgnViewer(  
+              { boardName: "demo",  
+                pgnFile: '2012-05-19-unknown-Thomason.pgn',  
+                pieceSet: 'leipzig',   
+                pieceSize: 29  
+              }  
+            );  
+          </script> 
 
-<script>  
-new PgnViewer(  
-  { boardName: "demo",  
-    pgnFile: 'kasparov.pgn',  
-    pieceSet: 'leipzig',   
-    pieceSize: 20  
-  }  
-);  
-</script> 
-
-
+          <div class="PGN-viewer-container">
+            <div class="PGN-viewer-board">
 <div id="demo-container"></div>  
+            </div>
+            <div class="PGN-viewer-moveslist">
 <div id="demo-moves"></div>  
+            </div>
+          </div>
 
 
-
-
-          <a href="2012-05-19-unknown-Thomason.shtml">
-            2012-05-19-unknown-Thomason
-          </a>
 
 
         </div>

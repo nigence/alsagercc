@@ -219,3 +219,29 @@ iframe
   margin : 5px;
 }
 
+div.PGN-viewer-container
+{
+  display : flex;
+  flex-direction : row;
+}
+
+
+div.PGN-viewer-board
+{
+  flex-grow: 0;
+  order: 1;
+}
+
+
+div.PGN-viewer-moveslist
+{
+  flex-grow: 1;
+  order:2;
+}
+
+div.ct-nav-buttons img 
+{
+  height : 39px;
+  width : 39px;
+}
+
