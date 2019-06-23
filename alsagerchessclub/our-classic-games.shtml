@@ -2,21 +2,6 @@
 <html>
   <head>
     <!--#include file="head.html" -->
-
-
-<script type="text/javascript"  
-    src="http://chesstempo.com/js/pgnyui.js">  
-</script>   
-<script type="text/javascript"  
-    src="http://chesstempo.com/js/pgnviewer.js">  
-</script>  
-<link  
- type="text/css"   
- rel="stylesheet"   
- href="http://chesstempo.com/css/board-min.css">  
-</link>  
-
-
   </head>
 
   <body>
@@ -24,29 +9,12 @@
       <!--#include file="header.html" -->
 
       <div class="nav-and-panel-container">
+
         <div class="nav-container">
           <!--#include file="nav.html" -->
         </div>
+
         <div class="panel-container">
-
-
-
-<script>  
-new PgnViewer(  
-  { boardName: "demo",  
-    pgnFile: 'kasparov.pgn',  
-    pieceSet: 'leipzig',   
-    pieceSize: 20  
-  }  
-);  
-</script> 
-
-
-<div id="demo-container"></div>  
-<div id="demo-moves"></div>  
-
-
-
 
           <a href="2012-05-19-unknown-Thomason.shtml">
             2012-05-19-unknown-Thomason
