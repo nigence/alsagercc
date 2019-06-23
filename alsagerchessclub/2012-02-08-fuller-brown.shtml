@@ -29,15 +29,15 @@
         </div>
         <div class="panel-container">
 
-          <h2>Unknown(156) vs Alan Thomason(139),</h2>
-          <h2>Rhyl Congress Round 2,</h2>
-          <h2>19th May 2012, ECO: E87</h2>
+          <h2>Watson Fuller(121) vs Steve Brown(126),</h2>
+          <h2>NSDCA league division ?,</h2>
+          <h2>8th February 2012, ECO: C14</h2>
           <p>Special thanks are due to chesstempo.com for their excellent PGN viewer.</p>
 
           <script>  
             new PgnViewer(  
               { boardName: "demo",  
-                pgnFile: '2012-05-19-unknown-thomason.pgn',  
+                pgnFile: '2012-02-08-fuller-brown.pgn',  
                 pieceSet: 'leipzig',   
                 pieceSize: 29  
               }  

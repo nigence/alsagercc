@@ -29,15 +29,15 @@
         </div>
         <div class="panel-container">
 
-          <h2>Unknown(156) vs Alan Thomason(139),</h2>
-          <h2>Rhyl Congress Round 2,</h2>
-          <h2>19th May 2012, ECO: E87</h2>
+          <h2>Sam Onions(137) vs Alan Thomason(141),</h2>
+          <h2>NSDCA league division ?,</h2>
+          <h2>15th November 2011, ECO: B09</h2>
           <p>Special thanks are due to chesstempo.com for their excellent PGN viewer.</p>
 
           <script>  
             new PgnViewer(  
               { boardName: "demo",  
-                pgnFile: '2012-05-19-unknown-thomason.pgn',  
+                pgnFile: '2011-11-15-onions-thomason.pgn',  
                 pieceSet: 'leipzig',   
                 pieceSize: 29  
               }  
