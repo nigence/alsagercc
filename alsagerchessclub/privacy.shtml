@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include file="head.html" -->
+  </head>
+
+  <body>
+    <div class="overall-wrapper">
+      <!--#include file="header.html" -->
+
+      <div class="nav-and-panel-container">
+        <div class="nav-container">
+          <!--#include file="nav.html" -->
+        </div>
+        <div class="panel-container">
+          <h2>privacy</h2>
+          <h2>
+            This website does NOT use cookies!
+          </h2>
+
+          <p>
+            We don't track preferences; we won't try to sell you stuff; we won't sell or
+            give your details to anybody else who might try. We don't keep computer
+            records; members details are only held on paper scraps kept safely in our 
+            houses. (I suppose some of the more modern members might keep contact 
+            details in their 'smart' 'phones?)  Of course, for league games, we are obliged
+            to give results to the NSDCA. Playing is consent.
+          </p>
+
+          <p>
+            Here's the policy :
+          </p>
+
+          <p>
+The information we obtain about our members is provided by them directly. We do not collect personal data simply as a result of a person visiting our website.
+          </p>
+
+          <p>
+The personal data we obtain is only used to:
+          </p>
+
+          <ul>
+            <li>
+  Obtain payment of membership fees to fund the club
+            </li>
+            <li>
+  Identify members of the ECF and enrol club members as members of the ECF (English Chess Federation)
+            </li>
+            <li>
+  Register members to play in competitions organized by the NSDCA (North Staffs District Chess Association), other local chess organisations or the ECF
+            </li>
+            <li>
+  Communicate with members to pass on relevant information and to organize teams for the competitions in which the club participates
+            </li>
+            <li>
+  Submit results of matches played in competitions to the ECF for grading purposes
+            </li>
+            <li>
+  We hold personal data for as long as a person is a member of the club and for a reasonable time thereafter
+          </ul>
+
+          <p>
+Unless required by law we do not sell, rent or share personal data with third parties.
+          </p>
+
+          <p>
+Members can at any time ask for copies of the data we hold about them. If a member provides information about another person it is their responsibility to ensure that the other person has given their explicit consent to the processing of that data.
+          </p>
+
+          <p>
+If a person has concerns or complaints about the data held about them they should contact the Chairman or Secretary of the club for resolution.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
