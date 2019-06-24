@@ -13,7 +13,10 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
-          blah blah blah
+          <h2> lending library  </h2>
+	  <p> We have a bookcase at the club with a good big shelf full of chess literature. 
+	      Members are welcome to borrow. Some titles are currently out on loan. 
+	      One day, we might get around to producing an index. </p>
         </div>
       </div>
     </div>
