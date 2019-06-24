@@ -13,7 +13,39 @@
           <!--#include file="nav.html" -->
         </div>
         <div class="panel-container">
-          blah blah blah
+
+          <h2>gallery</h2>
+
+          <p>Is this like an old family album?  We must take some more - 
+             so that we will have tomorrow's old photo's.</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/kidsgrove-alsager-at-royal-oak/doug-considers-rook-sacrifice.jpg">
+          <p>Doug considers a rook sacrifice - during South Cheshire Shield match between 
+             Kidsgrove and Alsager at the 
+             Royal Oak in Harriseahead back in 2011</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/kidsgrove-alsager-at-royal-oak/rook-sacrifice-was-sound.jpg">
+          <p>Rook sacrifice was sound!</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/kidsgrove-alsager-at-royal-oak/alan-offers-draw.jpg">
+          <p>Also at the above SCS match, Alan offers a draw.</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/kidsgrove-alsager-at-royal-oak/hostilities-put-aside.jpg">
+          <p>..and, at the end, hostilities are put aside.</p>
+
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/alsager-holmes-chapel-first-at-cricket-club/oliver-horrocks-vs-paul-clifford-also-drawn.jpg">
+          <p>Also, from the 2011 South Cheshire Shield, this was Alsager's first game at 
+             their new home - hosted by Alsager Cricket Club. Holmes Chapel were the 
+             visitors. Oliver drew with Paul Clifford.</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/alsager-holmes-chapel-first-at-cricket-club/john-smith-draws-vs-dave-price.jpg">
+          <p>John drew with Dave Price.</p>
+
+          <img class="gallery-photo" src="photos/gallery/2011/south-cheshire-shield/alsager-holmes-chapel-first-at-cricket-club/brian-and-george-watch-remaining-action.jpg">
+          <p>Brian and George watch the remaining action.</p>
+
+
         </div>
       </div>
     </div>

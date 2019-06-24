@@ -17,6 +17,11 @@ img#subscription-image
   height : 300px;
 }
 
+img.gallery-photo
+{
+  border-radius : 10px;
+  height : 180px;
+}
 
 div.overall-wrapper {
   height : 1000px;
