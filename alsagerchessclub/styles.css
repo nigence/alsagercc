@@ -185,6 +185,7 @@ div#find-us-text-column
 {
   flex-grow: 1;
   order:2;
+  max-width : 390px;
 }
 
 
