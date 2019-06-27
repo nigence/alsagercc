@@ -245,6 +245,7 @@ div.PGN-viewer-moveslist
 {
   flex-grow: 1;
   order:2;
+  max-width: 720px;
 }
 
 div.ct-nav-buttons img 
