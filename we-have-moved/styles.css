@@ -1,0 +1,27 @@
+
+p
+{
+  color:DarkSlateGrey; 
+  font: 30px "Arial", sans-serif;
+  font-weight: normal;
+}
+
+a:link, 
+a:visited,
+a:active
+{
+  color:DarkSlateGrey; 
+  font: 30px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+
+a:hover
+{
+  color:red; 
+  font: 30px "Arial", sans-serif;
+  font-weight: bold;
+  text-decoration:none;
+}
+
