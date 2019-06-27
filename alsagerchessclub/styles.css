@@ -219,7 +219,6 @@ div.embedded-youtube-grid
 {
   color : red;
   display : grid;
-  grid-template-columns : auto auto;
 }
 
 iframe
