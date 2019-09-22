@@ -253,3 +253,26 @@ div.ct-nav-buttons img
   width : 39px;
 }
 
+p#boast-text
+{
+  background : inherit;
+  color : orange;
+  font: bold 24px "Arial", sans-serif;
+}
+
+p#boast-text a,
+p#boast-text a:link, 
+p#boast-text a:visited,
+p#boast-text a:active
+{
+  background : inherit;
+  color : DarkSlateGrey;
+  font: bold 18px "Arial", sans-serif;
+}
+
+p#boast-text a:hover
+{
+  background : inherit;
+  color : red;
+  font: bold 18px "Arial", sans-serif;
+}
