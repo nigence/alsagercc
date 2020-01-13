@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include file="head.html" -->
+
+
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnyui.js">  
+</script>   
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnviewer.js">  
+</script>  
+<link  
+ type="text/css"   
+ rel="stylesheet"   
+ href="http://chesstempo.com/css/board-min.css">  
+</link>  
+
+
+  </head>
+
+  <body>
+    <div class="overall-wrapper">
+      <!--#include file="header.html" -->
+
+      <div class="nav-and-panel-container">
+        <div class="nav-container">
+          <!--#include file="nav.html" -->
+        </div>
+        <div class="panel-container">
+
+          <h2>Oliver Davies (77F) vs George Viszokai (118A)</h2>
+          <h2>Shropshire chess congress 2020 round 1 </h2>
+          <h2>3rd January 2020, ECO: B44 (Sicilian defence - Paulsen variation)</h2>
+          <p>Special thanks are due to chesstempo.com for their excellent PGN viewer.</p>
+
+          <script>  
+            new PgnViewer(  
+              { boardName: "demo",  
+                pgnFile: '2020-01-03-01-davies-viszokai.pgn',  
+                pieceSet: 'leipzig',   
+                pieceSize: 29  
+              }  
+            );  
+          </script> 
+
+          <div class="PGN-viewer-container">
+            <div class="PGN-viewer-board">
+<div id="demo-container"></div>  
+            </div>
+            <div class="PGN-viewer-moveslist">
+<div id="demo-moves"></div>  
+            </div>
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

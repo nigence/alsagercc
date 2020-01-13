@@ -1,0 +1,17 @@
+[Event "Shropshire Chess Congress 2020"]
+[Date "2020.01.05"]
+[Round "4"]
+[White "Holyhead, James"]
+[Black "Davies, Oliver"]
+[Result "0-1"]
+[WhiteElo "77F"]
+[BlackElo "72D"]
+[TimeControl "90+30"]
+[Termination "0-1"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. Nf3 Nc6 5. e3 e5 6. Bb5 e4 7. Bxc6+ bxc6 8. Nfd2 Ba6 9. Nc3 Rg8 10. Rg1 Rb8 11. Na4 Rb4 12. c3 Rb8 13. Qc2 Bd3 14. Qd1 Bd6 15. g3 Qd7 16. Qh5 Rg7 17. Nb3 Rg5 18. Qxh7 Rxb3 19. axb3 Qg4 20. f3 Qxf3 21. Rg2 Qf1+ 22. Kd2 Qxg2+ 23. Kc1 { 0-1 Black wins by checkmate. } 0-1
+
+
