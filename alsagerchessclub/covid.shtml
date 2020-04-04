@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include file="head.html" -->
+  </head>
+
+  <body>
+    <div class="overall-wrapper">
+      <!--#include file="header.html" -->
+
+      <div class="nav-and-panel-container">
+        <div class="nav-container">
+          <!--#include file="nav.html" -->
+        </div>
+        <div class="panel-container">
+          <h2> Covid-19 online tournament Saturday 11th April - Saturday 18th April</h2>
+	  <p> 
+Who are the best chess players around Alsager?
+Alsager Chess Club are inviting their nearest neighbours to a "Covid-19" online tournament
+and are delighted to welcome the general public too.
+          </p>
+	  <p> 
+Summary:
+<br>- 4 short and quick chess games over an 8-day period arranged "Swiss style" between 11 and 18 April.
+<br>- Covid-19 themed prizes and (optional) publicity for the top scoring players in each category.
+<br>- Categories are simple: (1)chess club members; (2)non-members; and (3)junior non-members.
+<br>- Entry is free. 
+<br>- It's time-flexible : arrange to play each game in a 2-day window to suit you.  
+<br>- Ideal for young players to get a taste of tournament chess.
+          </p>
+	  <p> 
+Depending on individual performances, each game could last between 1 and 40 minutes (15|10 time control).
+          </p>
+	  <p> 
+To enter, simply create a (free) account on 
+                <a href="https://www.chess.com/" target="_blank">
+                  chess.com
+                </a>
+and send your username to secretary@alsagerchessclub.org.uk
+or message via www.chess.com at "ClubPaperJack" before 5pm on Friday 10 April.
+          </p>
+	  <p> 
+Support via telephone is available if you need help getting started on the website etc.
+          </p>
+	  <p> 
+At the start of each round, the username "handle" of your opponent is messaged to you; 
+challenge them on the website 
+or accept their challenge if they got there first.
+          </p>
+	  <p> 
+The schedule is: 
+<br>round 1 - Saturday 11th to Sunday 12th April
+<br>round 2 - Monday 13th to Tuesday 14th
+<br>round 3 - Wednesday to Thursday 16th
+<br>round 4 - Friday to Saturday 18th April
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
