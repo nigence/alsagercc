@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include file="head.html" -->
+
+
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnyui.js">  
+</script>   
+<script type="text/javascript"  
+    src="http://chesstempo.com/js/pgnviewer.js">  
+</script>  
+<link  
+ type="text/css"   
+ rel="stylesheet"   
+ href="http://chesstempo.com/css/board-min.css">  
+</link>  
+
+
+  </head>
+
+  <body>
+    <div class="overall-wrapper">
+      <!--#include file="header.html" -->
+
+      <div class="nav-and-panel-container">
+        <div class="nav-container">
+          <!--#include file="nav.html" -->
+        </div>
+        <div class="panel-container">
+
+          <h2>Tim Twentyman vs Dr Chris Yate</h2>
+          <h2>Alsager Covid-19 online chess congress 2020 round 4 (and final tie)</h2>
+          <h2>21st April2020, (Sicilian defence)</h2>
+          <p>Special thanks are due to chesstempo.com for their excellent PGN viewer.</p>
+
+          <script>  
+            new PgnViewer(  
+              { boardName: "demo",  
+                pgnFile: '2020-04-21-emmitt1965_vs_CJBrewer.pgn',  
+                pieceSet: 'leipzig',   
+                pieceSize: 29  
+              }  
+            );  
+          </script> 
+
+          <div class="PGN-viewer-container">
+            <div class="PGN-viewer-board">
+<div id="demo-container"></div>  
+            </div>
+            <div class="PGN-viewer-moveslist">
+<div id="demo-moves"></div>  
+            </div>
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
