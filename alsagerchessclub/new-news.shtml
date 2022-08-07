@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--#include file="head.html" -->
+  </head>
+
+  <body>
+    <div class="overall-wrapper">
+      <!--#include file="header.html" -->
+
+      <div class="nav-and-panel-container">
+        <div class="nav-container">
+          <!--#include file="nav.html" -->
+        </div>
+        <div class="panel-container">
+          <h2>Alsager retain South Cheshire Shield</h2>
+          <p> 
+This summer-league resumed after 2 years suspension, due to covid, and we were delighted to run out winners thereby retaining the title.   Club chairman and secretary Andy Barker said :
+          </p>
+          <p> 
+The annual summer chess competition, the South Cheshire Shield, was completed last night at Alsager Cricket Club, home to Alsager Chess Club.
+          </p>
+          <p> 
+The final match was between Alsager and Kidsgrove with Alsager coming out 3-1 winners and taking the 2022 title. Alsager had been the title holders after the competition was last played, in 2019, and so retain the title.
+          </p>
+          <p> 
+During the matches, Alsager fielded established and new players (we had players aged between 10 and 95 years old!) and all showed great commitment to the club. Club secretary Andy Barker congratulated all who took part and supported the teams' efforts. 
+          </p>
+          <p> 
+Special thanks are due to the cricket club for their continued support.
+          </p>
+          <p> 
+We look forward to the new full season starting in the Autumn; for anyone wanting to get involved, or simply play friendly chess games, please get in touch; all are welcome!
+          </p>
+          <p> 
+ <a href="/alsagerchessclub/southcheshireshield.shtml">Read more.</a> 
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
